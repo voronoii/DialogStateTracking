@@ -1,3 +1,3 @@
 # Dialog State Tracking
 
-<a href="http://dcollection.sungshin.ac.kr/public_resource/pdf/000000013899_20201230170856.pdf">졸업논문</a>
+<a href="https://drive.google.com/file/d/1by4eFGZhBdf3sT7rTKtpRBnPAzuV6k27/view?usp=sharing">졸업논문</a>
